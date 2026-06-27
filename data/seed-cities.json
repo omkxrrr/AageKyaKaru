@@ -1,0 +1,252 @@
+[
+  {
+    "id": "city-pune",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "cost_of_living_index": 72,
+    "safety_score": 78,
+    "avg_hostel_cost": 85000,
+    "job_market_score": 86,
+    "language": "Marathi, Hindi, English"
+  },
+  {
+    "id": "city-mumbai",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "cost_of_living_index": 92,
+    "safety_score": 74,
+    "avg_hostel_cost": 135000,
+    "job_market_score": 94,
+    "language": "Marathi, Hindi, English"
+  },
+  {
+    "id": "city-nagpur",
+    "name": "Nagpur",
+    "state": "Maharashtra",
+    "cost_of_living_index": 58,
+    "safety_score": 76,
+    "avg_hostel_cost": 65000,
+    "job_market_score": 70,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-navi-mumbai",
+    "name": "Navi Mumbai",
+    "state": "Maharashtra",
+    "cost_of_living_index": 82,
+    "safety_score": 80,
+    "avg_hostel_cost": 110000,
+    "job_market_score": 88,
+    "language": "Marathi, Hindi, English"
+  },
+  {
+    "id": "city-thane",
+    "name": "Thane",
+    "state": "Maharashtra",
+    "cost_of_living_index": 80,
+    "safety_score": 78,
+    "avg_hostel_cost": 105000,
+    "job_market_score": 84,
+    "language": "Marathi, Hindi, English"
+  },
+  {
+    "id": "city-nashik",
+    "name": "Nashik",
+    "state": "Maharashtra",
+    "cost_of_living_index": 61,
+    "safety_score": 77,
+    "avg_hostel_cost": 65000,
+    "job_market_score": 67,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-aurangabad",
+    "name": "Chhatrapati Sambhajinagar",
+    "state": "Maharashtra",
+    "cost_of_living_index": 57,
+    "safety_score": 72,
+    "avg_hostel_cost": 60000,
+    "job_market_score": 65,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-kolhapur",
+    "name": "Kolhapur",
+    "state": "Maharashtra",
+    "cost_of_living_index": 55,
+    "safety_score": 76,
+    "avg_hostel_cost": 58000,
+    "job_market_score": 62,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-solapur",
+    "name": "Solapur",
+    "state": "Maharashtra",
+    "cost_of_living_index": 52,
+    "safety_score": 71,
+    "avg_hostel_cost": 52000,
+    "job_market_score": 58,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-sangli",
+    "name": "Sangli",
+    "state": "Maharashtra",
+    "cost_of_living_index": 51,
+    "safety_score": 73,
+    "avg_hostel_cost": 50000,
+    "job_market_score": 57,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-satara",
+    "name": "Satara",
+    "state": "Maharashtra",
+    "cost_of_living_index": 50,
+    "safety_score": 75,
+    "avg_hostel_cost": 50000,
+    "job_market_score": 55,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-amravati",
+    "name": "Amravati",
+    "state": "Maharashtra",
+    "cost_of_living_index": 50,
+    "safety_score": 72,
+    "avg_hostel_cost": 50000,
+    "job_market_score": 56,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-akola",
+    "name": "Akola",
+    "state": "Maharashtra",
+    "cost_of_living_index": 48,
+    "safety_score": 70,
+    "avg_hostel_cost": 48000,
+    "job_market_score": 52,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-latur",
+    "name": "Latur",
+    "state": "Maharashtra",
+    "cost_of_living_index": 49,
+    "safety_score": 71,
+    "avg_hostel_cost": 48000,
+    "job_market_score": 53,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-ahmednagar",
+    "name": "Ahmednagar",
+    "state": "Maharashtra",
+    "cost_of_living_index": 52,
+    "safety_score": 72,
+    "avg_hostel_cost": 52000,
+    "job_market_score": 57,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-jalgaon",
+    "name": "Jalgaon",
+    "state": "Maharashtra",
+    "cost_of_living_index": 50,
+    "safety_score": 70,
+    "avg_hostel_cost": 50000,
+    "job_market_score": 54,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-nanded",
+    "name": "Nanded",
+    "state": "Maharashtra",
+    "cost_of_living_index": 49,
+    "safety_score": 70,
+    "avg_hostel_cost": 48000,
+    "job_market_score": 53,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-beed",
+    "name": "Beed",
+    "state": "Maharashtra",
+    "cost_of_living_index": 45,
+    "safety_score": 68,
+    "avg_hostel_cost": 45000,
+    "job_market_score": 48,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-ratnagiri",
+    "name": "Ratnagiri",
+    "state": "Maharashtra",
+    "cost_of_living_index": 54,
+    "safety_score": 76,
+    "avg_hostel_cost": 55000,
+    "job_market_score": 52,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-karad",
+    "name": "Karad",
+    "state": "Maharashtra",
+    "cost_of_living_index": 50,
+    "safety_score": 74,
+    "avg_hostel_cost": 50000,
+    "job_market_score": 55,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-lonavala",
+    "name": "Lonavala",
+    "state": "Maharashtra",
+    "cost_of_living_index": 62,
+    "safety_score": 76,
+    "avg_hostel_cost": 70000,
+    "job_market_score": 58,
+    "language": "Marathi, Hindi, English"
+  },
+  {
+    "id": "city-barshi",
+    "name": "Barshi",
+    "state": "Maharashtra",
+    "cost_of_living_index": 46,
+    "safety_score": 68,
+    "avg_hostel_cost": 45000,
+    "job_market_score": 48,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-yavatmal",
+    "name": "Yavatmal",
+    "state": "Maharashtra",
+    "cost_of_living_index": 47,
+    "safety_score": 69,
+    "avg_hostel_cost": 46000,
+    "job_market_score": 49,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-chandrapur",
+    "name": "Chandrapur",
+    "state": "Maharashtra",
+    "cost_of_living_index": 49,
+    "safety_score": 70,
+    "avg_hostel_cost": 48000,
+    "job_market_score": 51,
+    "language": "Marathi, Hindi"
+  },
+  {
+    "id": "city-osmanabad",
+    "name": "Dharashiv",
+    "state": "Maharashtra",
+    "cost_of_living_index": 45,
+    "safety_score": 68,
+    "avg_hostel_cost": 44000,
+    "job_market_score": 47,
+    "language": "Marathi, Hindi"
+  }
+]

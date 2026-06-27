@@ -1,0 +1,1391 @@
+[
+  {
+    "id": "hostel-coep",
+    "college_id": "college-coep",
+    "type": "boys",
+    "fees_per_year": 82000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Study room",
+      "Security"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-vjti",
+    "college_id": "college-vjti",
+    "type": "girls",
+    "fees_per_year": 118000,
+    "amenities": [
+      "Mess",
+      "Laundry",
+      "Security"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-pict",
+    "college_id": "college-pict",
+    "type": "co-ed",
+    "fees_per_year": 95000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Transport"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-ict-mumbai",
+    "college_id": "college-ict-mumbai",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-walchand-sangli",
+    "college_id": "college-walchand-sangli",
+    "type": "girls",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-spit",
+    "college_id": "college-spit",
+    "type": "co-ed",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-djsce",
+    "college_id": "college-djsce",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-frcrce",
+    "college_id": "college-frcrce",
+    "type": "girls",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-tsec",
+    "college_id": "college-tsec",
+    "type": "co-ed",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-kjsce",
+    "college_id": "college-kjsce",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-vit-pune",
+    "college_id": "college-vit-pune",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-mit-wpu",
+    "college_id": "college-mit-wpu",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-cummins",
+    "college_id": "college-cummins",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-viit",
+    "college_id": "college-viit",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-pccoe",
+    "college_id": "college-pccoe",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-pccoe-ravet",
+    "college_id": "college-pccoe-ravet",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-modern-coe",
+    "college_id": "college-modern-coe",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-aissms-coe",
+    "college_id": "college-aissms-coe",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-aissms-ioit",
+    "college_id": "college-aissms-ioit",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-dyp-akurdi",
+    "college_id": "college-dyp-akurdi",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-dyp-ambi",
+    "college_id": "college-dyp-ambi",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-zeal",
+    "college_id": "college-zeal",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-jspm-jscoe",
+    "college_id": "college-jspm-jscoe",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-jspm-rscoe",
+    "college_id": "college-jspm-rscoe",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-sinhgad-scoe",
+    "college_id": "college-sinhgad-scoe",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-sinhgad-skncoe",
+    "college_id": "college-sinhgad-skncoe",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-dypu-ambi",
+    "college_id": "college-dypu-ambi",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-ghrcem-pune",
+    "college_id": "college-ghrcem-pune",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-indira-iceem",
+    "college_id": "college-indira-iceem",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-bharati-pune",
+    "college_id": "college-bharati-pune",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-rait",
+    "college_id": "college-rait",
+    "type": "boys",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-fcrit",
+    "college_id": "college-fcrit",
+    "type": "girls",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-pce-panvel",
+    "college_id": "college-pce-panvel",
+    "type": "co-ed",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-acpce",
+    "college_id": "college-acpce",
+    "type": "boys",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-sies-gst",
+    "college_id": "college-sies-gst",
+    "type": "girls",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-terna",
+    "college_id": "college-terna",
+    "type": "co-ed",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-dbit",
+    "college_id": "college-dbit",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-vesit",
+    "college_id": "college-vesit",
+    "type": "girls",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-xavier",
+    "college_id": "college-xavier",
+    "type": "co-ed",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-atharva",
+    "college_id": "college-atharva",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-thakur",
+    "college_id": "college-thakur",
+    "type": "girls",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-rgith",
+    "college_id": "college-rgith",
+    "type": "co-ed",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-sakec",
+    "college_id": "college-sakec",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-mhsscoe",
+    "college_id": "college-mhsscoe",
+    "type": "girls",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-kccoe",
+    "college_id": "college-kccoe",
+    "type": "co-ed",
+    "fees_per_year": 105000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-apsit",
+    "college_id": "college-apsit",
+    "type": "boys",
+    "fees_per_year": 105000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-viva",
+    "college_id": "college-viva",
+    "type": "girls",
+    "fees_per_year": 105000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-lrti",
+    "college_id": "college-lrti",
+    "type": "co-ed",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-datta-meghe",
+    "college_id": "college-datta-meghe",
+    "type": "boys",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-mgm-coe",
+    "college_id": "college-mgm-coe",
+    "type": "girls",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-gcoen",
+    "college_id": "college-gcoen",
+    "type": "co-ed",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-ramdeobaba",
+    "college_id": "college-ramdeobaba",
+    "type": "boys",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-ycce",
+    "college_id": "college-ycce",
+    "type": "girls",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-ghrce",
+    "college_id": "college-ghrce",
+    "type": "co-ed",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-priyadarshini",
+    "college_id": "college-priyadarshini",
+    "type": "boys",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-stvincent",
+    "college_id": "college-stvincent",
+    "type": "girls",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-kdk",
+    "college_id": "college-kdk",
+    "type": "co-ed",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-vnit",
+    "college_id": "college-vnit",
+    "type": "boys",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-sggs",
+    "college_id": "college-sggs",
+    "type": "girls",
+    "fees_per_year": 48000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-geca",
+    "college_id": "college-geca",
+    "type": "co-ed",
+    "fees_per_year": 60000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-pescoe",
+    "college_id": "college-pescoe",
+    "type": "boys",
+    "fees_per_year": 60000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-mgm-jnec",
+    "college_id": "college-mgm-jnec",
+    "type": "girls",
+    "fees_per_year": 60000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-deogiri",
+    "college_id": "college-deogiri",
+    "type": "co-ed",
+    "fees_per_year": 60000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-gcoek",
+    "college_id": "college-gcoek",
+    "type": "boys",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-kits-kolhapur",
+    "college_id": "college-kits-kolhapur",
+    "type": "girls",
+    "fees_per_year": 58000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-dyp-kolhapur",
+    "college_id": "college-dyp-kolhapur",
+    "type": "co-ed",
+    "fees_per_year": 58000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-tkiiet",
+    "college_id": "college-tkiiet",
+    "type": "boys",
+    "fees_per_year": 58000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-wit-solapur",
+    "college_id": "college-wit-solapur",
+    "type": "girls",
+    "fees_per_year": 52000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-orchid",
+    "college_id": "college-orchid",
+    "type": "co-ed",
+    "fees_per_year": 52000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-wce-sangli",
+    "college_id": "college-wce-sangli",
+    "type": "boys",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-rit-islampur",
+    "college_id": "college-rit-islampur",
+    "type": "girls",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-bharati-kolhapur",
+    "college_id": "college-bharati-kolhapur",
+    "type": "co-ed",
+    "fees_per_year": 58000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-gcoej",
+    "college_id": "college-gcoej",
+    "type": "boys",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-ssgb",
+    "college_id": "college-ssgb",
+    "type": "girls",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-kkwagh",
+    "college_id": "college-kkwagh",
+    "type": "co-ed",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-metc",
+    "college_id": "college-metc",
+    "type": "boys",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-sandip",
+    "college_id": "college-sandip",
+    "type": "girls",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-snjb",
+    "college_id": "college-snjb",
+    "type": "co-ed",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-gcoeam",
+    "college_id": "college-gcoeam",
+    "type": "boys",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-prof-ram-meghe",
+    "college_id": "college-prof-ram-meghe",
+    "type": "girls",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-sipna",
+    "college_id": "college-sipna",
+    "type": "co-ed",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-prpcem",
+    "college_id": "college-prpcem",
+    "type": "boys",
+    "fees_per_year": 50000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-coeta",
+    "college_id": "college-coeta",
+    "type": "girls",
+    "fees_per_year": 48000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-ssgmce",
+    "college_id": "college-ssgmce",
+    "type": "co-ed",
+    "fees_per_year": 48000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-gcoey",
+    "college_id": "college-gcoey",
+    "type": "boys",
+    "fees_per_year": 46000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-jdiot",
+    "college_id": "college-jdiot",
+    "type": "girls",
+    "fees_per_year": 46000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-rcert",
+    "college_id": "college-rcert",
+    "type": "co-ed",
+    "fees_per_year": 48000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-gcoec",
+    "college_id": "college-gcoec",
+    "type": "boys",
+    "fees_per_year": 48000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-dbatu",
+    "college_id": "college-dbatu",
+    "type": "girls",
+    "fees_per_year": 55000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-famt",
+    "college_id": "college-famt",
+    "type": "co-ed",
+    "fees_per_year": 55000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-mit-adt",
+    "college_id": "college-mit-adt",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-bvu-coe",
+    "college_id": "college-bvu-coe",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-symbiosis-sit",
+    "college_id": "college-symbiosis-sit",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-flame",
+    "college_id": "college-flame",
+    "type": "boys",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-sibm",
+    "college_id": "college-sibm",
+    "type": "girls",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-simsree",
+    "college_id": "college-simsree",
+    "type": "co-ed",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-jbims",
+    "college_id": "college-jbims",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-welingkar",
+    "college_id": "college-welingkar",
+    "type": "girls",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "hostel-nmims",
+    "college_id": "college-nmims",
+    "type": "co-ed",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "hostel-somaiya-vidyavihar",
+    "college_id": "college-somaiya-vidyavihar",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "hostel-gpn",
+    "college_id": "college-gpn",
+    "type": "girls",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "hostel-gp-pune",
+    "college_id": "college-gp-pune",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "hostel-gp-mumbai",
+    "college_id": "college-gp-mumbai",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "hostel-gp-nashik",
+    "college_id": "college-gp-nashik",
+    "type": "girls",
+    "fees_per_year": 65000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "hostel-gp-awasari",
+    "college_id": "college-gp-awasari",
+    "type": "co-ed",
+    "fees_per_year": 85000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "hostel-ves-polytechnic",
+    "college_id": "college-ves-polytechnic",
+    "type": "boys",
+    "fees_per_year": 135000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "hostel-agnel-polytechnic",
+    "college_id": "college-agnel-polytechnic",
+    "type": "girls",
+    "fees_per_year": 110000,
+    "amenities": [
+      "Mess",
+      "Wi-Fi",
+      "Security",
+      "Study room"
+    ],
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "college-coep",
+    "name": "COEP Technological University",
+    "city_id": "city-pune",
+    "type": "govt",
+    "ranking": 1,
+    "website_url": "https://www.coep.org.in/",
+    "established_year": 1854,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-vjti",
+    "name": "Veermata Jijabai Technological Institute",
+    "city_id": "city-mumbai",
+    "type": "govt",
+    "ranking": 2,
+    "website_url": "https://vjti.ac.in/",
+    "established_year": 1887,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-pict",
+    "name": "Pune Institute of Computer Technology",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 3,
+    "website_url": "https://pict.edu/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-ict-mumbai",
+    "name": "Institute of Chemical Technology",
+    "city_id": "city-mumbai",
+    "type": "govt",
+    "ranking": 4,
+    "website_url": "https://www.ictmumbai.edu.in/",
+    "established_year": 1933,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-walchand-sangli",
+    "name": "Walchand College of Engineering",
+    "city_id": "city-sangli",
+    "type": "govt",
+    "ranking": 5,
+    "website_url": "https://www.walchandsangli.ac.in/",
+    "established_year": 1947,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-spit",
+    "name": "Sardar Patel Institute of Technology",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 6,
+    "website_url": "https://www.spit.ac.in/",
+    "established_year": 2005,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-djsce",
+    "name": "Dwarkadas J. Sanghvi College of Engineering",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 7,
+    "website_url": "https://www.djsce.ac.in/",
+    "established_year": 1994,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-frcrce",
+    "name": "Fr. Conceicao Rodrigues College of Engineering",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 8,
+    "website_url": "https://frcrce.ac.in/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-tsec",
+    "name": "Thadomal Shahani Engineering College",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 9,
+    "website_url": "https://tsec.edu/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-kjsce",
+    "name": "K. J. Somaiya College of Engineering",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 10,
+    "website_url": "https://kjsce.somaiya.edu/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-vit-pune",
+    "name": "Vishwakarma Institute of Technology",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 11,
+    "website_url": "https://www.vit.edu/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-mit-wpu",
+    "name": "MIT World Peace University",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 12,
+    "website_url": "https://mitwpu.edu.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-cummins",
+    "name": "MKSSS's Cummins College of Engineering for Women",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 13,
+    "website_url": "https://www.cumminscollege.org/",
+    "established_year": 1991,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-viit",
+    "name": "Vishwakarma Institute of Information Technology",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 14,
+    "website_url": "https://www.viit.ac.in/",
+    "established_year": 2002,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-pccoe",
+    "name": "Pimpri Chinchwad College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 15,
+    "website_url": "https://www.pccoepune.com/",
+    "established_year": 1999,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-pccoe-ravet",
+    "name": "Pimpri Chinchwad College of Engineering and Research",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 16,
+    "website_url": "https://www.pccoer.com/",
+    "established_year": 2014,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-modern-coe",
+    "name": "Progressive Education Society's Modern College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 17,
+    "website_url": "https://moderncoe.edu.in/",
+    "established_year": 1999,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-aissms-coe",
+    "name": "AISSMS College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 18,
+    "website_url": "https://aissmscoe.com/",
+    "established_year": 1992,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-aissms-ioit",
+    "name": "AISSMS Institute of Information Technology",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 19,
+    "website_url": "https://aissmsioit.org/",
+    "established_year": 1999,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-dyp-akurdi",
+    "name": "Dr. D. Y. Patil Institute of Technology, Pimpri",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 20,
+    "website_url": "https://engg.dypvp.edu.in/",
+    "established_year": 1998,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-dyp-ambi",
+    "name": "Dr. D. Y. Patil College of Engineering, Ambi",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 21,
+    "website_url": "https://www.dypcoeambi.com/",
+    "established_year": 2009,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-zeal",
+    "name": "Zeal College of Engineering and Research",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 22,
+    "website_url": "https://zcoer.in/",
+    "established_year": 2007,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-jspm-jscoe",
+    "name": "JSPM's Jayawantrao Sawant College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 23,
+    "website_url": "https://jspmjscoe.edu.in/",
+    "established_year": 2004,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-jspm-rscoe",
+    "name": "JSPM's Rajarshi Shahu College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 24,
+    "website_url": "https://www.jspmrscoe.edu.in/",
+    "established_year": 2001,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-sinhgad-scoe",
+    "name": "Sinhgad College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 25,
+    "website_url": "https://cms.sinhgad.edu/sinhgad_engineering_institutes/scoe_vadgaon/institute_details.aspx",
+    "established_year": 1996,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-sinhgad-skncoe",
+    "name": "Smt. Kashibai Navale College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 26,
+    "website_url": "https://cms.sinhgad.edu/sinhgad_engineering_institutes/skncoe_vadgaon/institute_details.aspx",
+    "established_year": 2001,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-dypu-ambi",
+    "name": "D. Y. Patil College of Engineering, Akurdi",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 27,
+    "website_url": "https://www.dypcoeakurdi.ac.in/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-ghrcem-pune",
+    "name": "G. H. Raisoni College of Engineering and Management, Pune",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 28,
+    "website_url": "https://ghrcem.raisoni.net/",
+    "established_year": 2006,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-indira-iceem",
+    "name": "Indira College of Engineering and Management",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 29,
+    "website_url": "https://indiraiicem.ac.in/",
+    "established_year": 2007,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-bharati-pune",
+    "name": "Bharati Vidyapeeth College of Engineering, Pune",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 30,
+    "website_url": "https://bvcoepune.edu.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-rait",
+    "name": "Ramrao Adik Institute of Technology",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 31,
+    "website_url": "https://rait.ac.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-fcrit",
+    "name": "Fr. C. Rodrigues Institute of Technology",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 32,
+    "website_url": "https://fcrit.ac.in/",
+    "established_year": 1994,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-pce-panvel",
+    "name": "Pillai College of Engineering",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 33,
+    "website_url": "https://www.pce.ac.in/",
+    "established_year": 1999,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-acpce",
+    "name": "A. C. Patil College of Engineering",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 34,
+    "website_url": "https://acpce.org/",
+    "established_year": 1992,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-sies-gst",
+    "name": "SIES Graduate School of Technology",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 35,
+    "website_url": "https://www.siesgst.edu.in/",
+    "established_year": 2002,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-terna",
+    "name": "Terna Engineering College",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 36,
+    "website_url": "https://ternaengg.ac.in/",
+    "established_year": 1991,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-dbit",
+    "name": "Don Bosco Institute of Technology, Mumbai",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 37,
+    "website_url": "https://www.dbit.in/",
+    "established_year": 2001,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-vesit",
+    "name": "Vivekanand Education Society's Institute of Technology",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 38,
+    "website_url": "https://vesit.ves.ac.in/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-xavier",
+    "name": "Xavier Institute of Engineering",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 39,
+    "website_url": "https://xavier.ac.in/",
+    "established_year": 2005,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-atharva",
+    "name": "Atharva College of Engineering",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 40,
+    "website_url": "https://atharvacoe.ac.in/",
+    "established_year": 1999,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-thakur",
+    "name": "Thakur College of Engineering and Technology",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 41,
+    "website_url": "https://www.tcetmumbai.in/",
+    "established_year": 2001,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-rgith",
+    "name": "MCT's Rajiv Gandhi Institute of Technology",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 42,
+    "website_url": "https://mctrgit.ac.in/",
+    "established_year": 1992,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-sakec",
+    "name": "Shah and Anchor Kutchhi Engineering College",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 43,
+    "website_url": "https://www.shahandanchor.com/",
+    "established_year": 1985,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-mhsscoe",
+    "name": "M. H. Saboo Siddik College of Engineering",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 44,
+    "website_url": "https://mhssce.ac.in/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-kccoe",
+    "name": "K. C. College of Engineering and Management Studies and Research",
+    "city_id": "city-thane",
+    "type": "private",
+    "ranking": 45,
+    "website_url": "https://kccemsr.edu.in/",
+    "established_year": 2001,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-apsit",
+    "name": "A. P. Shah Institute of Technology",
+    "city_id": "city-thane",
+    "type": "private",
+    "ranking": 46,
+    "website_url": "https://www.apsit.edu.in/",
+    "established_year": 2014,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-viva",
+    "name": "VIVA Institute of Technology",
+    "city_id": "city-thane",
+    "type": "private",
+    "ranking": 47,
+    "website_url": "https://www.viva-technology.org/",
+    "established_year": 2009,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-lrti",
+    "name": "Lokmanya Tilak College of Engineering",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 48,
+    "website_url": "https://ltce.in/",
+    "established_year": 1994,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-datta-meghe",
+    "name": "Datta Meghe College of Engineering",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 49,
+    "website_url": "https://dmce.ac.in/",
+    "established_year": 1988,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-mgm-coe",
+    "name": "MGM College of Engineering and Technology",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 50,
+    "website_url": "https://mgmmumbai.ac.in/mgmcet/",
+    "established_year": 1986,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-gcoen",
+    "name": "Government College of Engineering, Nagpur",
+    "city_id": "city-nagpur",
+    "type": "govt",
+    "ranking": 51,
+    "website_url": "https://gcoen.ac.in/",
+    "established_year": 2016,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-ramdeobaba",
+    "name": "Shri Ramdeobaba College of Engineering and Management",
+    "city_id": "city-nagpur",
+    "type": "private",
+    "ranking": 52,
+    "website_url": "https://www.rknec.edu/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-ycce",
+    "name": "Yeshwantrao Chavan College of Engineering",
+    "city_id": "city-nagpur",
+    "type": "private",
+    "ranking": 53,
+    "website_url": "https://www.ycce.edu/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-ghrce",
+    "name": "G. H. Raisoni College of Engineering, Nagpur",
+    "city_id": "city-nagpur",
+    "type": "private",
+    "ranking": 54,
+    "website_url": "https://ghrce.raisoni.net/",
+    "established_year": 1996,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-priyadarshini",
+    "name": "Priyadarshini College of Engineering",
+    "city_id": "city-nagpur",
+    "type": "private",
+    "ranking": 55,
+    "website_url": "https://pcenagpur.edu.in/",
+    "established_year": 1990,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-stvincent",
+    "name": "St. Vincent Pallotti College of Engineering and Technology",
+    "city_id": "city-nagpur",
+    "type": "private",
+    "ranking": 56,
+    "website_url": "https://www.stvincentngp.edu.in/",
+    "established_year": 2004,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-kdk",
+    "name": "KDK College of Engineering",
+    "city_id": "city-nagpur",
+    "type": "private",
+    "ranking": 57,
+    "website_url": "https://www.kdkce.edu.in/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-vnit",
+    "name": "Visvesvaraya National Institute of Technology",
+    "city_id": "city-nagpur",
+    "type": "govt",
+    "ranking": 58,
+    "website_url": "https://vnit.ac.in/",
+    "established_year": 1960,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-sggs",
+    "name": "Shri Guru Gobind Singhji Institute of Engineering and Technology",
+    "city_id": "city-nanded",
+    "type": "govt",
+    "ranking": 59,
+    "website_url": "https://www.sggs.ac.in/",
+    "established_year": 1981,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-geca",
+    "name": "Government College of Engineering, Chhatrapati Sambhajinagar",
+    "city_id": "city-aurangabad",
+    "type": "govt",
+    "ranking": 60,
+    "website_url": "https://geca.ac.in/",
+    "established_year": 1960,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-pescoe",
+    "name": "P. E. S. College of Engineering",
+    "city_id": "city-aurangabad",
+    "type": "private",
+    "ranking": 61,
+    "website_url": "https://pescoe.ac.in/",
+    "established_year": 1994,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-mgm-jnec",
+    "name": "MGM's Jawaharlal Nehru Engineering College",
+    "city_id": "city-aurangabad",
+    "type": "private",
+    "ranking": 62,
+    "website_url": "https://www.jnec.org/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-deogiri",
+    "name": "Deogiri Institute of Engineering and Management Studies",
+    "city_id": "city-aurangabad",
+    "type": "private",
+    "ranking": 63,
+    "website_url": "https://dietms.org/",
+    "established_year": 2009,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-gcoek",
+    "name": "Government College of Engineering, Karad",
+    "city_id": "city-karad",
+    "type": "govt",
+    "ranking": 64,
+    "website_url": "https://www.gcekarad.ac.in/",
+    "established_year": 1960,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-kits-kolhapur",
+    "name": "KIT's College of Engineering, Kolhapur",
+    "city_id": "city-kolhapur",
+    "type": "private",
+    "ranking": 65,
+    "website_url": "https://www.kitcoek.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-dyp-kolhapur",
+    "name": "D. Y. Patil College of Engineering and Technology, Kolhapur",
+    "city_id": "city-kolhapur",
+    "type": "private",
+    "ranking": 66,
+    "website_url": "https://coek.dypgroup.edu.in/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-tkiiet",
+    "name": "Tatyasaheb Kore Institute of Engineering and Technology",
+    "city_id": "city-kolhapur",
+    "type": "private",
+    "ranking": 67,
+    "website_url": "https://www.tkiietwarana.ac.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-wit-solapur",
+    "name": "Walchand Institute of Technology",
+    "city_id": "city-solapur",
+    "type": "private",
+    "ranking": 68,
+    "website_url": "https://witsolapur.org/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-orchid",
+    "name": "N. K. Orchid College of Engineering and Technology",
+    "city_id": "city-solapur",
+    "type": "private",
+    "ranking": 69,
+    "website_url": "https://orchidengg.ac.in/",
+    "established_year": 2008,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-wce-sangli",
+    "name": "Annasaheb Dange College of Engineering and Technology",
+    "city_id": "city-sangli",
+    "type": "private",
+    "ranking": 70,
+    "website_url": "https://www.adcet.in/",
+    "established_year": 1999,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-rit-islampur",
+    "name": "Rajarambapu Institute of Technology",
+    "city_id": "city-sangli",
+    "type": "private",
+    "ranking": 71,
+    "website_url": "https://www.ritindia.edu/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-bharati-kolhapur",
+    "name": "Bharati Vidyapeeth College of Engineering, Kolhapur",
+    "city_id": "city-kolhapur",
+    "type": "private",
+    "ranking": 72,
+    "website_url": "https://coekolhapur.bharatividyapeeth.edu/",
+    "established_year": 2001,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-gcoej",
+    "name": "Government College of Engineering, Jalgaon",
+    "city_id": "city-jalgaon",
+    "type": "govt",
+    "ranking": 73,
+    "website_url": "https://www.gcoej.ac.in/",
+    "established_year": 1996,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-ssgb",
+    "name": "Shri Sant Gadge Baba College of Engineering and Technology",
+    "city_id": "city-jalgaon",
+    "type": "private",
+    "ranking": 74,
+    "website_url": "https://www.ssgbcoet.com/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-kkwagh",
+    "name": "K. K. Wagh Institute of Engineering Education and Research",
+    "city_id": "city-nashik",
+    "type": "private",
+    "ranking": 75,
+    "website_url": "https://engg.kkwagh.edu.in/",
+    "established_year": 1984,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-metc",
+    "name": "MET's Institute of Engineering",
+    "city_id": "city-nashik",
+    "type": "private",
+    "ranking": 76,
+    "website_url": "https://metbhujbalknowledgecity.ac.in/metioe/",
+    "established_year": 2006,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-sandip",
+    "name": "Sandip Institute of Technology and Research Centre",
+    "city_id": "city-nashik",
+    "type": "private",
+    "ranking": 77,
+    "website_url": "https://sitrc.sandipfoundation.org/",
+    "established_year": 2008,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-snjb",
+    "name": "SNJB's Late Sau. K. B. Jain College of Engineering",
+    "city_id": "city-nashik",
+    "type": "private",
+    "ranking": 78,
+    "website_url": "https://www.snjb.org/engineering/",
+    "established_year": 2004,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-gcoeam",
+    "name": "Government College of Engineering, Amravati",
+    "city_id": "city-amravati",
+    "type": "govt",
+    "ranking": 79,
+    "website_url": "https://www.gcoea.ac.in/",
+    "established_year": 1964,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-prof-ram-meghe",
+    "name": "Prof. Ram Meghe Institute of Technology and Research",
+    "city_id": "city-amravati",
+    "type": "private",
+    "ranking": 80,
+    "website_url": "https://mitra.ac.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-sipna",
+    "name": "Sipna College of Engineering and Technology",
+    "city_id": "city-amravati",
+    "type": "private",
+    "ranking": 81,
+    "website_url": "https://sipnaengg.ac.in/",
+    "established_year": 1999,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-prpcem",
+    "name": "Prof. Ram Meghe College of Engineering and Management",
+    "city_id": "city-amravati",
+    "type": "private",
+    "ranking": 82,
+    "website_url": "https://prmceam.ac.in/",
+    "established_year": 2009,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-coeta",
+    "name": "College of Engineering and Technology, Akola",
+    "city_id": "city-akola",
+    "type": "private",
+    "ranking": 83,
+    "website_url": "https://www.coeta.ac.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-ssgmce",
+    "name": "Shri Sant Gajanan Maharaj College of Engineering",
+    "city_id": "city-akola",
+    "type": "private",
+    "ranking": 84,
+    "website_url": "https://www.ssgmce.ac.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-gcoey",
+    "name": "Government College of Engineering, Yavatmal",
+    "city_id": "city-yavatmal",
+    "type": "govt",
+    "ranking": 85,
+    "website_url": "https://www.gcoey.ac.in/",
+    "established_year": 2018,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-jdiot",
+    "name": "Jawaharlal Darda Institute of Engineering and Technology",
+    "city_id": "city-yavatmal",
+    "type": "private",
+    "ranking": 86,
+    "website_url": "https://www.jdiet.ac.in/",
+    "established_year": 1996,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-rcert",
+    "name": "Rajiv Gandhi College of Engineering, Research and Technology",
+    "city_id": "city-chandrapur",
+    "type": "private",
+    "ranking": 87,
+    "website_url": "https://www.rcert.ac.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-gcoec",
+    "name": "Government College of Engineering, Chandrapur",
+    "city_id": "city-chandrapur",
+    "type": "govt",
+    "ranking": 88,
+    "website_url": "https://www.gcoec.ac.in/",
+    "established_year": 1996,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-dbatu",
+    "name": "Dr. Babasaheb Ambedkar Technological University",
+    "city_id": "city-ratnagiri",
+    "type": "govt",
+    "ranking": 89,
+    "website_url": "https://dbatu.ac.in/",
+    "established_year": 1989,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-famt",
+    "name": "Finolex Academy of Management and Technology",
+    "city_id": "city-ratnagiri",
+    "type": "private",
+    "ranking": 90,
+    "website_url": "https://famt.ac.in/",
+    "established_year": 1996,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-mit-adt",
+    "name": "MIT Art, Design and Technology University",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 91,
+    "website_url": "https://mituniversity.ac.in/",
+    "established_year": 2015,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-bvu-coe",
+    "name": "Bharati Vidyapeeth Deemed University College of Engineering",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 92,
+    "website_url": "https://bvuniversity.edu.in/coepune/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-symbiosis-sit",
+    "name": "Symbiosis Institute of Technology",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 93,
+    "website_url": "https://www.sitpune.edu.in/",
+    "established_year": 2008,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-flame",
+    "name": "FLAME University",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 94,
+    "website_url": "https://www.flame.edu.in/",
+    "established_year": 2015,
+    "course_ids": [
+      "course-mba"
+    ]
+  },
+  {
+    "id": "college-sibm",
+    "name": "Symbiosis Institute of Business Management Pune",
+    "city_id": "city-pune",
+    "type": "private",
+    "ranking": 95,
+    "website_url": "https://www.sibm.edu/",
+    "established_year": 1978,
+    "course_ids": [
+      "course-mba"
+    ]
+  },
+  {
+    "id": "college-simsree",
+    "name": "Sydenham Institute of Management Studies, Research and Entrepreneurship Education",
+    "city_id": "city-mumbai",
+    "type": "govt",
+    "ranking": 96,
+    "website_url": "https://simsree.org/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-mba"
+    ]
+  },
+  {
+    "id": "college-jbims",
+    "name": "Jamnalal Bajaj Institute of Management Studies",
+    "city_id": "city-mumbai",
+    "type": "govt",
+    "ranking": 97,
+    "website_url": "https://jbims.edu/",
+    "established_year": 1965,
+    "course_ids": [
+      "course-mba"
+    ]
+  },
+  {
+    "id": "college-welingkar",
+    "name": "Prin. L. N. Welingkar Institute of Management Development and Research",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 98,
+    "website_url": "https://www.welingkar.org/",
+    "established_year": 1977,
+    "course_ids": [
+      "course-mba"
+    ]
+  },
+  {
+    "id": "college-nmims",
+    "name": "Mukesh Patel School of Technology Management and Engineering",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 99,
+    "website_url": "https://engineering.nmims.edu/",
+    "established_year": 2006,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-somaiya-vidyavihar",
+    "name": "Somaiya Vidyavihar University",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 100,
+    "website_url": "https://www.somaiya.edu/",
+    "established_year": 2019,
+    "course_ids": [
+      "course-btech-cs"
+    ]
+  },
+  {
+    "id": "college-gpn",
+    "name": "Government Polytechnic Nagpur",
+    "city_id": "city-nagpur",
+    "type": "govt",
+    "ranking": 101,
+    "website_url": "https://www.gpnagpur.ac.in/",
+    "established_year": 1914,
+    "course_ids": [
+      "course-diploma-cs"
+    ]
+  },
+  {
+    "id": "college-gp-pune",
+    "name": "Government Polytechnic Pune",
+    "city_id": "city-pune",
+    "type": "govt",
+    "ranking": 102,
+    "website_url": "https://gppune.ac.in/",
+    "established_year": 1957,
+    "course_ids": [
+      "course-diploma-cs"
+    ]
+  },
+  {
+    "id": "college-gp-mumbai",
+    "name": "Government Polytechnic Mumbai",
+    "city_id": "city-mumbai",
+    "type": "govt",
+    "ranking": 103,
+    "website_url": "https://gpmumbai.ac.in/",
+    "established_year": 1960,
+    "course_ids": [
+      "course-diploma-cs"
+    ]
+  },
+  {
+    "id": "college-gp-nashik",
+    "name": "Government Polytechnic Nashik",
+    "city_id": "city-nashik",
+    "type": "govt",
+    "ranking": 104,
+    "website_url": "https://gpnashik.ac.in/",
+    "established_year": 1980,
+    "course_ids": [
+      "course-diploma-cs"
+    ]
+  },
+  {
+    "id": "college-gp-awasari",
+    "name": "Government Polytechnic Awasari Khurd",
+    "city_id": "city-pune",
+    "type": "govt",
+    "ranking": 105,
+    "website_url": "https://www.gpawasari.ac.in/",
+    "established_year": 2008,
+    "course_ids": [
+      "course-diploma-cs"
+    ]
+  },
+  {
+    "id": "college-ves-polytechnic",
+    "name": "Vivekanand Education Society's Polytechnic",
+    "city_id": "city-mumbai",
+    "type": "private",
+    "ranking": 106,
+    "website_url": "https://ves.ac.in/polytechnic/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-diploma-cs"
+    ]
+  },
+  {
+    "id": "college-agnel-polytechnic",
+    "name": "Fr. Agnel Polytechnic, Vashi",
+    "city_id": "city-navi-mumbai",
+    "type": "private",
+    "ranking": 107,
+    "website_url": "https://apv.ac.in/",
+    "established_year": 1983,
+    "course_ids": [
+      "course-diploma-cs"
+    ]
+  }
+]

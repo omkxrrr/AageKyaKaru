@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "fee-coep-cs",
+    "college_id": "college-coep",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 135000,
+    "misc_fee": 18000,
+    "hostel_fee": 82000,
+    "academic_year": "2026-27",
+    "total_fee": 235000
+  },
+  {
+    "id": "fee-vjti-cs",
+    "college_id": "college-vjti",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 85000,
+    "misc_fee": 16000,
+    "hostel_fee": 118000,
+    "academic_year": "2026-27",
+    "total_fee": 219000
+  },
+  {
+    "id": "fee-pict-cs",
+    "college_id": "college-pict",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 105000,
+    "misc_fee": 22000,
+    "hostel_fee": 95000,
+    "academic_year": "2026-27",
+    "total_fee": 222000
+  },
+  {
+    "id": "fee-ict-mumbai-btech-cs",
+    "college_id": "college-ict-mumbai",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 102000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 255000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-walchand-sangli-btech-cs",
+    "college_id": "college-walchand-sangli",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 89000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 157000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-spit-btech-cs",
+    "college_id": "college-spit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-djsce-btech-cs",
+    "college_id": "college-djsce",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-frcrce-btech-cs",
+    "college_id": "college-frcrce",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-tsec-btech-cs",
+    "college_id": "college-tsec",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-kjsce-btech-cs",
+    "college_id": "college-kjsce",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-vit-pune-btech-cs",
+    "college_id": "college-vit-pune",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-mit-wpu-btech-cs",
+    "college_id": "college-mit-wpu",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-cummins-btech-cs",
+    "college_id": "college-cummins",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-viit-btech-cs",
+    "college_id": "college-viit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-pccoe-btech-cs",
+    "college_id": "college-pccoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-pccoe-ravet-btech-cs",
+    "college_id": "college-pccoe-ravet",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-modern-coe-btech-cs",
+    "college_id": "college-modern-coe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-aissms-coe-btech-cs",
+    "college_id": "college-aissms-coe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-aissms-ioit-btech-cs",
+    "college_id": "college-aissms-ioit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-dyp-akurdi-btech-cs",
+    "college_id": "college-dyp-akurdi",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-dyp-ambi-btech-cs",
+    "college_id": "college-dyp-ambi",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-zeal-btech-cs",
+    "college_id": "college-zeal",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-jspm-jscoe-btech-cs",
+    "college_id": "college-jspm-jscoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-jspm-rscoe-btech-cs",
+    "college_id": "college-jspm-rscoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sinhgad-scoe-btech-cs",
+    "college_id": "college-sinhgad-scoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sinhgad-skncoe-btech-cs",
+    "college_id": "college-sinhgad-skncoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-dypu-ambi-btech-cs",
+    "college_id": "college-dypu-ambi",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-ghrcem-pune-btech-cs",
+    "college_id": "college-ghrcem-pune",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-indira-iceem-btech-cs",
+    "college_id": "college-indira-iceem",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-bharati-pune-btech-cs",
+    "college_id": "college-bharati-pune",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-rait-btech-cs",
+    "college_id": "college-rait",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-fcrit-btech-cs",
+    "college_id": "college-fcrit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-pce-panvel-btech-cs",
+    "college_id": "college-pce-panvel",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-acpce-btech-cs",
+    "college_id": "college-acpce",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sies-gst-btech-cs",
+    "college_id": "college-sies-gst",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-terna-btech-cs",
+    "college_id": "college-terna",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-dbit-btech-cs",
+    "college_id": "college-dbit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-vesit-btech-cs",
+    "college_id": "college-vesit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-xavier-btech-cs",
+    "college_id": "college-xavier",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-atharva-btech-cs",
+    "college_id": "college-atharva",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-thakur-btech-cs",
+    "college_id": "college-thakur",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-rgith-btech-cs",
+    "college_id": "college-rgith",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sakec-btech-cs",
+    "college_id": "college-sakec",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-mhsscoe-btech-cs",
+    "college_id": "college-mhsscoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-kccoe-btech-cs",
+    "college_id": "college-kccoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 142000,
+    "misc_fee": 18000,
+    "hostel_fee": 105000,
+    "total_fee": 265000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-apsit-btech-cs",
+    "college_id": "college-apsit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 142000,
+    "misc_fee": 18000,
+    "hostel_fee": 105000,
+    "total_fee": 265000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-viva-btech-cs",
+    "college_id": "college-viva",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 142000,
+    "misc_fee": 18000,
+    "hostel_fee": 105000,
+    "total_fee": 265000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-lrti-btech-cs",
+    "college_id": "college-lrti",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-datta-meghe-btech-cs",
+    "college_id": "college-datta-meghe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-mgm-coe-btech-cs",
+    "college_id": "college-mgm-coe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 143000,
+    "misc_fee": 18000,
+    "hostel_fee": 110000,
+    "total_fee": 271000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gcoen-btech-cs",
+    "college_id": "college-gcoen",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 91000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 174000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-ramdeobaba-btech-cs",
+    "college_id": "college-ramdeobaba",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 130000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 213000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-ycce-btech-cs",
+    "college_id": "college-ycce",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 130000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 213000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-ghrce-btech-cs",
+    "college_id": "college-ghrce",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 130000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 213000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-priyadarshini-btech-cs",
+    "college_id": "college-priyadarshini",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 130000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 213000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-stvincent-btech-cs",
+    "college_id": "college-stvincent",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 130000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 213000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-kdk-btech-cs",
+    "college_id": "college-kdk",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 130000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 213000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-vnit-btech-cs",
+    "college_id": "college-vnit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 91000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 174000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sggs-btech-cs",
+    "college_id": "college-sggs",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 88000,
+    "misc_fee": 18000,
+    "hostel_fee": 48000,
+    "total_fee": 154000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-geca-btech-cs",
+    "college_id": "college-geca",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 91000,
+    "misc_fee": 18000,
+    "hostel_fee": 60000,
+    "total_fee": 169000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-pescoe-btech-cs",
+    "college_id": "college-pescoe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 129000,
+    "misc_fee": 18000,
+    "hostel_fee": 60000,
+    "total_fee": 207000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-mgm-jnec-btech-cs",
+    "college_id": "college-mgm-jnec",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 129000,
+    "misc_fee": 18000,
+    "hostel_fee": 60000,
+    "total_fee": 207000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-deogiri-btech-cs",
+    "college_id": "college-deogiri",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 129000,
+    "misc_fee": 18000,
+    "hostel_fee": 60000,
+    "total_fee": 207000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gcoek-btech-cs",
+    "college_id": "college-gcoek",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 88000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 156000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-kits-kolhapur-btech-cs",
+    "college_id": "college-kits-kolhapur",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 128000,
+    "misc_fee": 18000,
+    "hostel_fee": 58000,
+    "total_fee": 204000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-dyp-kolhapur-btech-cs",
+    "college_id": "college-dyp-kolhapur",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 128000,
+    "misc_fee": 18000,
+    "hostel_fee": 58000,
+    "total_fee": 204000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-tkiiet-btech-cs",
+    "college_id": "college-tkiiet",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 128000,
+    "misc_fee": 18000,
+    "hostel_fee": 58000,
+    "total_fee": 204000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-wit-solapur-btech-cs",
+    "college_id": "college-wit-solapur",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 127000,
+    "misc_fee": 18000,
+    "hostel_fee": 52000,
+    "total_fee": 197000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-orchid-btech-cs",
+    "college_id": "college-orchid",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 127000,
+    "misc_fee": 18000,
+    "hostel_fee": 52000,
+    "total_fee": 197000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-wce-sangli-btech-cs",
+    "college_id": "college-wce-sangli",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 126000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 194000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-rit-islampur-btech-cs",
+    "college_id": "college-rit-islampur",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 126000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 194000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-bharati-kolhapur-btech-cs",
+    "college_id": "college-bharati-kolhapur",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 128000,
+    "misc_fee": 18000,
+    "hostel_fee": 58000,
+    "total_fee": 204000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gcoej-btech-cs",
+    "college_id": "college-gcoej",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 88000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 156000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-ssgb-btech-cs",
+    "college_id": "college-ssgb",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 126000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 194000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-kkwagh-btech-cs",
+    "college_id": "college-kkwagh",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 132000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 215000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-metc-btech-cs",
+    "college_id": "college-metc",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 132000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 215000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sandip-btech-cs",
+    "college_id": "college-sandip",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 132000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 215000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-snjb-btech-cs",
+    "college_id": "college-snjb",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 132000,
+    "misc_fee": 18000,
+    "hostel_fee": 65000,
+    "total_fee": 215000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gcoeam-btech-cs",
+    "college_id": "college-gcoeam",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 88000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 156000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-prof-ram-meghe-btech-cs",
+    "college_id": "college-prof-ram-meghe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 126000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 194000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sipna-btech-cs",
+    "college_id": "college-sipna",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 126000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 194000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-prpcem-btech-cs",
+    "college_id": "college-prpcem",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 126000,
+    "misc_fee": 18000,
+    "hostel_fee": 50000,
+    "total_fee": 194000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-coeta-btech-cs",
+    "college_id": "college-coeta",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 125000,
+    "misc_fee": 18000,
+    "hostel_fee": 48000,
+    "total_fee": 191000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-ssgmce-btech-cs",
+    "college_id": "college-ssgmce",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 125000,
+    "misc_fee": 18000,
+    "hostel_fee": 48000,
+    "total_fee": 191000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gcoey-btech-cs",
+    "college_id": "college-gcoey",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 87000,
+    "misc_fee": 18000,
+    "hostel_fee": 46000,
+    "total_fee": 151000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-jdiot-btech-cs",
+    "college_id": "college-jdiot",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 124000,
+    "misc_fee": 18000,
+    "hostel_fee": 46000,
+    "total_fee": 188000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-rcert-btech-cs",
+    "college_id": "college-rcert",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 125000,
+    "misc_fee": 18000,
+    "hostel_fee": 48000,
+    "total_fee": 191000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gcoec-btech-cs",
+    "college_id": "college-gcoec",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 88000,
+    "misc_fee": 18000,
+    "hostel_fee": 48000,
+    "total_fee": 154000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-dbatu-btech-cs",
+    "college_id": "college-dbatu",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 90000,
+    "misc_fee": 18000,
+    "hostel_fee": 55000,
+    "total_fee": 163000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-famt-btech-cs",
+    "college_id": "college-famt",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 128000,
+    "misc_fee": 18000,
+    "hostel_fee": 55000,
+    "total_fee": 201000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-mit-adt-btech-cs",
+    "college_id": "college-mit-adt",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-bvu-coe-btech-cs",
+    "college_id": "college-bvu-coe",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-symbiosis-sit-btech-cs",
+    "college_id": "college-symbiosis-sit",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 138000,
+    "misc_fee": 18000,
+    "hostel_fee": 85000,
+    "total_fee": 241000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-flame-mba",
+    "college_id": "college-flame",
+    "course_id": "course-mba",
+    "tuition_fee": 341000,
+    "misc_fee": 28000,
+    "hostel_fee": 85000,
+    "total_fee": 454000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-sibm-mba",
+    "college_id": "college-sibm",
+    "course_id": "course-mba",
+    "tuition_fee": 341000,
+    "misc_fee": 28000,
+    "hostel_fee": 85000,
+    "total_fee": 454000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-simsree-mba",
+    "college_id": "college-simsree",
+    "course_id": "course-mba",
+    "tuition_fee": 158000,
+    "misc_fee": 28000,
+    "hostel_fee": 135000,
+    "total_fee": 321000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-jbims-mba",
+    "college_id": "college-jbims",
+    "course_id": "course-mba",
+    "tuition_fee": 158000,
+    "misc_fee": 28000,
+    "hostel_fee": 135000,
+    "total_fee": 321000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-welingkar-mba",
+    "college_id": "college-welingkar",
+    "course_id": "course-mba",
+    "tuition_fee": 357000,
+    "misc_fee": 28000,
+    "hostel_fee": 135000,
+    "total_fee": 520000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-nmims-btech-cs",
+    "college_id": "college-nmims",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-somaiya-vidyavihar-btech-cs",
+    "college_id": "college-somaiya-vidyavihar",
+    "course_id": "course-btech-cs",
+    "tuition_fee": 149000,
+    "misc_fee": 18000,
+    "hostel_fee": 135000,
+    "total_fee": 302000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gpn-cs",
+    "college_id": "college-gpn",
+    "course_id": "course-diploma-cs",
+    "tuition_fee": 12000,
+    "misc_fee": 6000,
+    "hostel_fee": 52000,
+    "academic_year": "2026-27",
+    "total_fee": 70000
+  },
+  {
+    "id": "fee-gp-pune-diploma-cs",
+    "college_id": "college-gp-pune",
+    "course_id": "course-diploma-cs",
+    "tuition_fee": 16000,
+    "misc_fee": 7000,
+    "hostel_fee": 85000,
+    "total_fee": 108000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gp-mumbai-diploma-cs",
+    "college_id": "college-gp-mumbai",
+    "course_id": "course-diploma-cs",
+    "tuition_fee": 17000,
+    "misc_fee": 7000,
+    "hostel_fee": 135000,
+    "total_fee": 159000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gp-nashik-diploma-cs",
+    "college_id": "college-gp-nashik",
+    "course_id": "course-diploma-cs",
+    "tuition_fee": 15000,
+    "misc_fee": 7000,
+    "hostel_fee": 65000,
+    "total_fee": 87000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-gp-awasari-diploma-cs",
+    "college_id": "college-gp-awasari",
+    "course_id": "course-diploma-cs",
+    "tuition_fee": 16000,
+    "misc_fee": 7000,
+    "hostel_fee": 85000,
+    "total_fee": 108000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-ves-polytechnic-diploma-cs",
+    "college_id": "college-ves-polytechnic",
+    "course_id": "course-diploma-cs",
+    "tuition_fee": 53000,
+    "misc_fee": 7000,
+    "hostel_fee": 135000,
+    "total_fee": 195000,
+    "academic_year": "2026-27"
+  },
+  {
+    "id": "fee-agnel-polytechnic-diploma-cs",
+    "college_id": "college-agnel-polytechnic",
+    "course_id": "course-diploma-cs",
+    "tuition_fee": 52000,
+    "misc_fee": 7000,
+    "hostel_fee": 110000,
+    "total_fee": 169000,
+    "academic_year": "2026-27"
+  }
+]
