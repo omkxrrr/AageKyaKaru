@@ -2,6 +2,30 @@
 
 Student guidance MVP for answering "ab aage kya karu?" after 10th, 12th, diploma, or degree.
 
+## Screenshots
+
+### Home
+
+![AageKyaKaru home hero](public/screenshots/home-hero.png)
+
+![AageKyaKaru home overview](public/screenshots/home-overview.png)
+
+### Colleges and Cities
+
+![College directory](public/screenshots/college-directory.png)
+
+![College directory grid](public/screenshots/college-directory-grid.png)
+
+![City snapshot](public/screenshots/city-snapshot.png)
+
+### Guidance Tools
+
+![Quick guidance quiz](public/screenshots/quiz.png)
+
+![City and fees comparison](public/screenshots/compare.png)
+
+![After 12th guidance page](public/screenshots/after-12th.png)
+
 ## What is included
 
 - Next.js 14 App Router project
