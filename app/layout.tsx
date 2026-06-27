@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
-import { Compass } from "lucide-react";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: "AageKyaKaru",
-  description: "Structured student guidance for courses, colleges, cities, fees, and hostels."
+  description: "Structured student guidance for courses, colleges, cities, fees, and hostels.",
+  icons: {
+    icon: "/logo.svg"
+  }
 };
 
 const navItems = [
@@ -26,10 +29,15 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body>
         <header className="sticky top-0 z-20 border-b border-ink/10 bg-paper/92 backdrop-blur">
           <div className="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-4 sm:px-6 lg:flex-row lg:items-center lg:justify-between">
-            <Link href="/" className="flex items-center gap-2 text-lg font-black text-ink">
-              <span className="flex h-9 w-9 items-center justify-center rounded bg-ink text-white">
-                <Compass size={19} />
-              </span>
+            <Link href="/" className="flex items-center gap-3 text-lg font-black text-ink">
+              <Image
+                src="/logo.svg"
+                alt="AageKyaKaru logo"
+                width={40}
+                height={40}
+                className="rounded-md shadow-soft"
+                priority
+              />
               AageKyaKaru
             </Link>
             <nav className="flex gap-2 overflow-x-auto pb-1 lg:pb-0" aria-label="Primary navigation">
